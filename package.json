@@ -1,0 +1,16 @@
+{
+	"name" : "node-http-git-server",
+	"version": "0.0.1",
+	"dependencies": {
+		"mime-types": "*"
+	},
+	"main": "app.js",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/LuisHsu/node-http-git-server"
+	},
+	"engines" : {
+		"node" : ">=4.2.6"
+	},
+	"scripts": { "start": "node app.js" }
+}
