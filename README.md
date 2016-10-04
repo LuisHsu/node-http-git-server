@@ -1,6 +1,8 @@
 # Node Http Git Server
 #### Simple git server via Http protocol
 
+[Development Note](https://hackmd.io/JwJghmDGUKwLSQCwAYCmdEwCYDM4A4RUA2OMAI0QEYBmEc5c8rcoA===#)
+
 ## Depencency
 - NodeJS >= v4.2.6
 - git
